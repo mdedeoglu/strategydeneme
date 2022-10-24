@@ -1,0 +1,3 @@
+rep "strategydeneme@quaxel_AS_Publisher@cloud"
+  path "/"
+    smartbranch "/main"
